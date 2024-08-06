@@ -1,0 +1,15 @@
+ca-private-key.key
+
+shared/tls/*
+
+
+/**/*.cert
+
+/**/*.pem
+
+
+/**/*.key
+
+/**/.env
+
+/**/node_modules
