@@ -12,4 +12,6 @@ shared/tls/*
 
 /**/.env
 
+/**/*.csr
+
 /**/node_modules

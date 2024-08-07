@@ -1,0 +1,3 @@
+[submodule "distnode-deploy"]
+	path = distnode-deploy
+	url = https://github.com/Nouman-Mughal/distnode-deploy.git
